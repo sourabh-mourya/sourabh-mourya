@@ -1,15 +1,15 @@
 👋 Hi, I’m Sourabh Mourya  
 💻 Backend Developer | Full-Stack (MERN) | AI Enthusiast  
 
-&nbsp;&nbsp;&nbsp;&nbsp;👀 Interested in Backend Development, REST APIs, Full-Stack Applications, System Design, and AI-powered solutions<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently improving skills in Python, Node.js, Express, MongoDB, React, and exploring Machine Learning & Artificial Intelligence<br>
-&nbsp;&nbsp;&nbsp;&nbsp;💼 Completed a Backend Developer Internship at MII Foundation (June–August)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🛠 Worked on ERP modules, backend logic, database design, and API integration<br>
-&nbsp;&nbsp;&nbsp;&nbsp;💻 Built projects involving web applications, backend systems, and real-world use cases<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🤖 Interested in building AI-integrated applications and intelligent backend systems<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🔧 Comfortable with Git, GitHub, Pull Requests, and collaborative development workflows<br>
-&nbsp;&nbsp;&nbsp;&nbsp;💞️ Open to collaborating on backend-heavy, full-stack, AI, startup, and open-source projects<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 Focused on writing clean, scalable, and maintainable code
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👀 Interested in Backend Development, REST APIs, Full-Stack Applications, System Design, and AI-powered solutions<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently improving skills in Python, Node.js, Express, MongoDB, React, and exploring Machine Learning & Artificial Intelligence<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💼 Completed a Backend Developer Internship at MII Foundation (June–August)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠 Worked on ERP modules, backend logic, database design, and API integration<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 Built projects involving web applications, backend systems, and real-world use cases<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤖 Interested in building AI-integrated applications and intelligent backend systems<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔧 Comfortable with Git, GitHub, Pull Requests, and collaborative development workflows<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💞️ Open to collaborating on backend-heavy, full-stack, AI, startup, and open-source projects<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 Focused on writing clean, scalable, and maintainable code
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sourabhmourya/) 
