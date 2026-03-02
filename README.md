@@ -1,5 +1,5 @@
-&nbsp;&nbsp;👋 Hi, I’m Sourabh Mourya  
-&nbsp;&nbsp;💻 Backend Developer | Full-Stack (MERN) | AI Enthusiast  
+👋 Hi, I’m Sourabh Mourya  
+💻 Backend Developer | Full-Stack (MERN) | AI Enthusiast  
 
 &nbsp;&nbsp;&nbsp;&nbsp;👀 Interested in Backend Development, REST APIs, Full-Stack Applications, System Design, and AI-powered solutions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently improving skills in Python, Node.js, Express, MongoDB, React, and exploring Machine Learning & Artificial Intelligence<br>
