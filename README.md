@@ -1,23 +1,14 @@
+👋 Hi, I’m Sourabh Mourya  
+💻 Backend Developer | Full-Stack (MERN) | AI Enthusiast  
 
-👋 Hi, I’m Sourabh Mourya
-💻 Backend Developer | Full-Stack (MERN) | AI Enthusiast
-
-👀 Interested in Backend Development, REST APIs, Full-Stack Applications, System Design, and AI-powered solutions
-
-🌱 Currently improving skills in Python, Node.js, Express, MongoDB, React, and exploring Machine Learning & Artificial Intelligence
-
-💼 Completed a Backend Developer Internship at MII Foundation (June–August)
-
-🛠 Worked on ERP modules, backend logic, database design, and API integration
-
-🤖 Interested in building AI-integrated applications and intelligent backend systems
-
-🚀 Built projects involving web applications, backend systems, and real-world use cases
-
-🔧 Comfortable with Git, GitHub, Pull Requests, and collaborative development workflows
-
-💞️ Open to collaborating on backend-heavy, full-stack, AI, startup, or open-source projects
-
+👀 Interested in Backend Development, REST APIs, Full-Stack Applications, System Design, and AI-powered solutions<br>
+🌱 Currently improving skills in Python, Node.js, Express, MongoDB, React, and exploring Machine Learning & Artificial Intelligence<br>
+💼 Completed a Backend Developer Internship at MII Foundation (June–August)<br>
+🛠 Worked on ERP modules, backend logic, database design, and API integration<br>
+💻 Built projects involving web applications, backend systems, and real-world use cases<br>
+🤖 Interested in building AI-integrated applications and intelligent backend systems<br>
+🔧 Comfortable with Git, GitHub, Pull Requests, and collaborative development workflows<br>
+💞️ Open to collaborating on backend-heavy, full-stack, AI, startup, and open-source projects<br>
 🎯 Focused on writing clean, scalable, and maintainable code
 
 ## 🌐 Socials:
