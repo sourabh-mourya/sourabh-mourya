@@ -1,6 +1,24 @@
 
-👋 Hi, I’m Sourabh Mourya,<br>👀 Interested in Backend Development, Full-Stack (MERN), APIs, and System Design<br>🌱 Currently improving skills in Python, Node.js, Express, MongoDB, React, and Software Engineering concepts<br>💼 Internship experience at MII Foundation (June–Aug) as a Backend Developer<br>🛠 Worked on ERP modules, backend logic, database handling, and API integration<br>💻 Built and worked on projects involving web applications, backend systems, and real-world use cases<br>🔧 Comfortable with Git, GitHub, Pull Requests, and collaborative development<br>💞️ Open to collaborating on backend-heavy, full-stack, and startup/open-source projects<br>🎯 Focused on writing clean, scalable, and maintainable code<br>
+👋 Hi, I’m Sourabh Mourya
+💻 Backend Developer | Full-Stack (MERN) | AI Enthusiast
 
+👀 Interested in Backend Development, REST APIs, Full-Stack Applications, System Design, and AI-powered solutions
+
+🌱 Currently improving skills in Python, Node.js, Express, MongoDB, React, and exploring Machine Learning & Artificial Intelligence
+
+💼 Completed a Backend Developer Internship at MII Foundation (June–August)
+
+🛠 Worked on ERP modules, backend logic, database design, and API integration
+
+🤖 Interested in building AI-integrated applications and intelligent backend systems
+
+🚀 Built projects involving web applications, backend systems, and real-world use cases
+
+🔧 Comfortable with Git, GitHub, Pull Requests, and collaborative development workflows
+
+💞️ Open to collaborating on backend-heavy, full-stack, AI, startup, or open-source projects
+
+🎯 Focused on writing clean, scalable, and maintainable code
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sourabhmourya/) 
