@@ -1,3 +1,11 @@
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=santusht06&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/santusht06?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=58A6FF)
+![Stars](https://img.shields.io/github/stars/santusht06?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=58A6FF)
+
+</div>
+
 # Hi there, I'm Sourabh Mourya! 👋
 
 ### 💻 Backend Developer | Full-Stack (MERN) | AI Enthusiast
@@ -64,8 +72,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
-
 
 > *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
