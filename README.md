@@ -1,8 +1,8 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=santusht06&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/santusht06?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=58A6FF)
-![Stars](https://img.shields.io/github/stars/santusht06?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=58A6FF)
+![Profile Views](https://komarev.com/ghpvc/?username=sourabh-mourya&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/sourabh-mourya?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=58A6FF)
+![Stars](https://img.shields.io/github/stars/sourabh-mourya?style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github&logoColor=58A6FF)
 
 </div>
 
