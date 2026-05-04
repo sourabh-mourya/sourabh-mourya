@@ -8,7 +8,7 @@
 
 # Hi there, I'm Sourabh Mourya! 👋
 
-### 💻 Backend Developer | Full-Stack (MERN) | AI Enthusiast
+### 💻 Backend Developer | Full-Stack (MERN) | AI-ML Enthusiast
 
 ---
 
@@ -74,4 +74,3 @@
 
 ---
 
-> *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
