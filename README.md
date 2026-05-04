@@ -101,6 +101,8 @@ If you're building something cool or have an opportunity, let's talk!
 </div> -->
 
 
+------------------------------------------------------
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58A6FF&height=140&section=header&text=Sourabh%20Mourya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
@@ -141,14 +143,12 @@ Building and maintaining production-level college applications in a team of 10�
 ---
 
 ## Projects
-
 | Project | Stack | What it does |
 |---|---|---|
 | [**MediSetu**](https://github.com/sourabh-mourya) — Telemedicine Platform | Node.js · Express · React · MongoDB · JWT | Full-stack platform for patients, doctors, pharmacies, labs — appointment scheduling, lab bookings, medicine orders. 5-role RBAC securing 30+ endpoints. 95% uptime. |
 | [**Moonstone 2K26**](https://github.com/sourabh-mourya) — University Fest Platform | Node.js · Express · React · MongoDB · Redis | Handled **1,000+ registrations across 20+ events**, 3,000 unique visitors, 9,000+ page views — zero downtime. Redis rate limiting, UTR-based payment verification, multi-role admin system. |
-
+| [**AI-ML**](https://github.com/sourabh-mourya) — Upcoming | Python · FastAPI · TensorFlow · LangChain | Exploring AI-integrated backends and intelligent systems — building at the intersection of ML models and production-grade APIs. Stay tuned. 🚀 |
 ---
-
 ## Achievements
 
 - 🏆 &nbsp;Top 50 out of 500+ teams — **Smart India Hackathon (SIH)** (2024 & 2025)
@@ -178,21 +178,19 @@ Building and maintaining production-level college applications in a team of 10�
 ---
 
 ## Stats
-
 <div align="center">
-
+  
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=sourabh-mourya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_title=true"/>
 &nbsp;
+  
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-mourya&theme=tokyonight&hide_border=true&layout=compact&hide_title=true"/>
-
 <br/>
 
-<!-- <img src="https://streak-stats.demolab.com/?user=sourabh-mourya&theme=tokyonight&hide_border=true"/> -->
-
+<img src="https://streak-stats.demolab.com/?user=sourabh-mourya&theme=tokyonight&hide_border=true"/> 
 </div>
 
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=80&section=footer"/>
 
 ---
+
