@@ -177,20 +177,3 @@ Building and maintaining production-level college applications in a team of 10â€
 
 ---
 
-## Stats
-<div align="center">
-  
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=sourabh-mourya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_title=true"/>
-&nbsp;
-  
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-mourya&theme=tokyonight&hide_border=true&layout=compact&hide_title=true"/>
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=sourabh-mourya&theme=tokyonight&hide_border=true"/> 
-</div>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=80&section=footer"/>
-
----
-
