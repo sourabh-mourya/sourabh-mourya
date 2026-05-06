@@ -145,8 +145,8 @@ Building and maintaining production-level college applications in a team of 10�
 ## Projects
 | Project | Stack | What it does |
 |---|---|---|
-| [**MediSetu**](https://github.com/sourabh-mourya) — Telemedicine Platform | Node.js · Express · React · MongoDB · JWT | Full-stack platform for patients, doctors, pharmacies, labs — appointment scheduling, lab bookings, medicine orders. 5-role RBAC securing 30+ endpoints. 95% uptime. |
-| [**Moonstone 2K26**](https://github.com/sourabh-mourya) — University Fest Platform | Node.js · Express · React · MongoDB · Redis | Handled **1,000+ registrations across 20+ events**, 3,000 unique visitors, 9,000+ page views — zero downtime. Redis rate limiting, UTR-based payment verification, multi-role admin system. |
+| [**MediSetu**](https://medisetu-healthcare.vercel.app/) — Telemedicine Platform | Node.js · Express · React · MongoDB · JWT | Full-stack platform for patients, doctors, pharmacies, labs — appointment scheduling, lab bookings, medicine orders. 5-role RBAC securing 30+ endpoints. 95% uptime. |
+| [**Moonstone 2K26**](https://moonstone.medicaps.ac.in/) — University Fest Platform | Node.js · Express · React · MongoDB · Redis | Handled **1,000+ registrations across 20+ events**, 3,000 unique visitors, 9,000+ page views — zero downtime. Redis rate limiting, UTR-based payment verification, multi-role admin system. |
 | [**AI-ML**](https://github.com/sourabh-mourya) — Upcoming | Python · FastAPI · TensorFlow · LangChain | Exploring AI-integrated backends and intelligent systems — building at the intersection of ML models and production-grade APIs. Stay tuned. 🚀 |
 ---
 ## Achievements
