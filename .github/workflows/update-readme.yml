@@ -66,7 +66,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add README.md
+          git pull --rebase origin main
           git diff --cached --quiet || git commit -m "chore: rotate header/footer color theme [skip ci]"
           git push
