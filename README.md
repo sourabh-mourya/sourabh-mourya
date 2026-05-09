@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Sourabh%20Mourya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI-ML%20%7C%20Cloud%20(AWS%2C%20Docker)&descAlignY=60&descSize=18&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58A6FF&height=180&section=header&text=Sourabh%20Mourya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI-ML%20%7C%20Cloud%20(AWS%2C%20Docker)&descAlignY=60&descSize=18&descColor=8b949e" />
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Full-Stack+%28MERN%29;REST+APIs+%7C+JWT+%7C+RBAC+%7C+Redis;Building+scalable+systems+that+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
 
