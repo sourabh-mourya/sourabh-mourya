@@ -1,7 +1,6 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2447,50:19376D,100:576CBC&height=180&section=header&text=Sourabh%20Mourya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Full-Stack%20(MERN)%20%7C%20Systems%20Thinker&descAlignY=60&descSize=18&descColor=8b949e" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Sourabh%20Mourya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI-ML%20%7C%20Cloud%20(AWS%2C%20Docker)&descAlignY=60&descSize=18&descColor=8b949e" />
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Full-Stack+%28MERN%29;REST+APIs+%7C+JWT+%7C+RBAC+%7C+Redis;Building+scalable+systems+that+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
@@ -101,10 +100,14 @@ Building and maintaining production-level college applications in a team of 10â€
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b2447,50:19376D,100:576CBC&height=2" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2000&color=8b949e&center=true&vCenter=true&width=700&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+%E2%80%94+Kent+Beck;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.%22+%E2%80%94+Cory+House;%22Any+fool+can+write+code+that+a+computer+can+understand.%22+%E2%80%94+Martin+Fowler;%22Simplicity+is+the+soul+of+efficiency.%22+%E2%80%94+Austin+Freeman" alt="Quotes" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a2332,100:58A6FF&height=2" width="100%"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2447,50:19376D,100:576CBC&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58A6FF&height=120&section=footer&animation=fadeIn" />
 
 </div>
