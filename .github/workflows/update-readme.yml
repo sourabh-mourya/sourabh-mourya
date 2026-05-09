@@ -2,8 +2,8 @@ name: Update README — Color Rotate + Snake
 
 on:
   schedule:
-    - cron: "0 */8 * * *"   # har 8 ghante mein run hoga (3 baar/din)
-  workflow_dispatch:          # manually bhi trigger kar sakte ho
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
 
 jobs:
   # ─────────────────────────────────────
@@ -45,28 +45,40 @@ jobs:
 
       - name: Rotate color theme in README
         run: |
-          # Teen themes — har run pe agle pe shift hoga
-          THEME_1="0:0d1117,50:1a2332,100:58A6FF"   # Electric Blue
-          THEME_2="0:0b2447,50:19376D,100:576CBC"   # Navy Blue
-          THEME_3="0:003153,50:0077b6,100:48cae4"   # Ocean Teal
+          # ── Header themes (customColorList format) ──
+          H_THEME_1="0,2,2,5,30"        # Electric Blue
+          H_THEME_2="0,4,4,8,20"        # Navy Blue
+          H_THEME_3="0,6,6,10,25"       # Ocean Teal
 
-          # Current theme README se read karo
-          CURRENT=$(grep -o 'color=0:[^&]*' README.md | head -1 | sed 's/color=//')
+          # ── Footer/Divider themes (color= format) — same order ──
+          F_THEME_1="0:0d1117,50:1a2332,100:58A6FF"
+          F_THEME_2="0:0b2447,50:19376D,100:576CBC"
+          F_THEME_3="0:003153,50:0077b6,100:48cae4"
 
-          # Next theme decide karo
-          if [ "$CURRENT" = "$THEME_1" ]; then
-            NEXT="$THEME_2"
-          elif [ "$CURRENT" = "$THEME_2" ]; then
-            NEXT="$THEME_3"
+          # ── Footer se current theme detect karo ──
+          CURRENT_F=$(grep -o 'color=0:[^&"]*' README.md | head -1 | sed 's/color=//')
+
+          # ── Next theme decide karo ──
+          if [ "$CURRENT_F" = "$F_THEME_1" ]; then
+            NEXT_H="$H_THEME_2"
+            NEXT_F="$F_THEME_2"
+          elif [ "$CURRENT_F" = "$F_THEME_2" ]; then
+            NEXT_H="$H_THEME_3"
+            NEXT_F="$F_THEME_3"
           else
-            NEXT="$THEME_1"
+            NEXT_H="$H_THEME_1"
+            NEXT_F="$F_THEME_1"
           fi
 
-          echo "Switching from: $CURRENT"
-          echo "Switching to:   $NEXT"
+          # ── Current header detect karo ──
+          CURRENT_H=$(grep -o 'customColorList=[^&"]*' README.md | head -1 | sed 's/customColorList=//')
 
-          # README mein replace karo (header + divider + footer teeno)
-          sed -i "s|color=$CURRENT|color=$NEXT|g" README.md
+          echo "Header:  $CURRENT_H → $NEXT_H"
+          echo "Footer:  $CURRENT_F → $NEXT_F"
+
+          # ── Dono alag-alag replace karo ──
+          sed -i "s|customColorList=$CURRENT_H|customColorList=$NEXT_H|g" README.md
+          sed -i "s|color=$CURRENT_F|color=$NEXT_F|g" README.md
 
       - name: Commit updated README
         run: |
