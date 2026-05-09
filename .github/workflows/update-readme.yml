@@ -45,45 +45,28 @@ jobs:
 
       - name: Rotate color theme in README
         run: |
-          # ── Header themes (customColorList format) ──
-          H_THEME_1="0,2,2,5,30"        # Electric Blue
-          H_THEME_2="0,4,4,8,20"        # Navy Blue
-          H_THEME_3="0,6,6,10,25"       # Ocean Teal
+          THEME_1="0:0d1117,50:1a2332,100:58A6FF"
+          THEME_2="0:0b2447,50:19376D,100:576CBC"
+          THEME_3="0:003153,50:0077b6,100:48cae4"
 
-          # ── Footer/Divider themes (color= format) — same order ──
-          F_THEME_1="0:0d1117,50:1a2332,100:58A6FF"
-          F_THEME_2="0:0b2447,50:19376D,100:576CBC"
-          F_THEME_3="0:003153,50:0077b6,100:48cae4"
+          CURRENT=$(grep -o 'color=0:[^&"]*' README.md | head -1 | sed 's/color=//')
 
-          # ── Footer se current theme detect karo ──
-          CURRENT_F=$(grep -o 'color=0:[^&"]*' README.md | head -1 | sed 's/color=//')
-
-          # ── Next theme decide karo ──
-          if [ "$CURRENT_F" = "$F_THEME_1" ]; then
-            NEXT_H="$H_THEME_2"
-            NEXT_F="$F_THEME_2"
-          elif [ "$CURRENT_F" = "$F_THEME_2" ]; then
-            NEXT_H="$H_THEME_3"
-            NEXT_F="$F_THEME_3"
+          if [ "$CURRENT" = "$THEME_1" ]; then
+            NEXT="$THEME_2"
+          elif [ "$CURRENT" = "$THEME_2" ]; then
+            NEXT="$THEME_3"
           else
-            NEXT_H="$H_THEME_1"
-            NEXT_F="$F_THEME_1"
+            NEXT="$THEME_1"
           fi
 
-          # ── Current header detect karo ──
-          CURRENT_H=$(grep -o 'customColorList=[^&"]*' README.md | head -1 | sed 's/customColorList=//')
-
-          echo "Header:  $CURRENT_H → $NEXT_H"
-          echo "Footer:  $CURRENT_F → $NEXT_F"
-
-          # ── Dono alag-alag replace karo ──
-          sed -i "s|customColorList=$CURRENT_H|customColorList=$NEXT_H|g" README.md
-          sed -i "s|color=$CURRENT_F|color=$NEXT_F|g" README.md
+          echo "Switching: $CURRENT → $NEXT"
+          sed -i "s|color=$CURRENT|color=$NEXT|g" README.md
 
       - name: Commit updated README
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add README.md
           git diff --cached --quiet || git commit -m "chore: rotate header/footer color theme [skip ci]"
           git push
