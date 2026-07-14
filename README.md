@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Sourabh%20Mourya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI-ML%20%7C%20Cloud%20(AWS%2C%20Docker)&descAlignY=60&descSize=18&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=180&section=header&text=Sourabh%20Mourya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI-ML%20%7C%20Cloud%20(AWS%2C%20Docker)&descAlignY=60&descSize=18&descColor=8b949e" />
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Full-Stack+%28MERN%29;REST+APIs+%7C+JWT+%7C+RBAC+%7C+Redis;Building+scalable+systems+that+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -104,11 +104,11 @@ Building and maintaining production-level college applications in a team of 10â€
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=13&height=2" width="100%"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=120&section=footer&animation=fadeIn" />
 
 
 
